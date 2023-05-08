@@ -1,1 +1,1 @@
-# UoP-Team-Project
+# UoPeople-Team-Project
